@@ -1,0 +1,50 @@
+{
+  "shelves": [
+    {
+      "is_shelf_full": false,
+      "books": [
+        {
+          "author": "Henry Fielding",
+          "title": "The History of Tom Jones, a Foundling",
+          "num_of_pages": 500
+        },
+        {
+          "author": "Jane Austen",
+          "title": "Pride and Prejudice",
+          "num_of_pages": 200
+        }
+      ]
+    },
+    {
+      "is_shelf_full": false,
+      "books": [
+        {
+          "author": "Stendhal",
+          "title": "The Red and the Black",
+          "num_of_pages": 400
+        },
+        {
+          "author": "Honor\u00e9 de Balzac",
+          "title": "Le P\u00e8re Goriot",
+          "num_of_pages": 300
+        }
+      ]
+    },
+    {
+      "is_shelf_full": false,
+      "books": [
+        {
+          "author": "Charles Dickens",
+          "title": "David Copperfield",
+          "num_of_pages": 350
+        },
+        {
+          "author": "Gustave Flaubert",
+          "title": "Madame Bovary",
+          "num_of_pages": 250
+        }
+      ]
+    }
+  ],
+  "readers": []
+}
