@@ -17,15 +17,12 @@ shelf2 = Shelf()
 shelf3 = Shelf()
 shelf1.books.append(booksOBJ[0])
 shelf1.books.append(booksOBJ[1])
-# print(shelf1.books)
 shelf2.books.append(booksOBJ[2])
 shelf2.books.append(booksOBJ[3])
 shelf3.books.append(booksOBJ[4])
 shelf3.books.append(booksOBJ[5])
-# reader = Reader()
 library = Library(shelf1, shelf2, shelf3)
-# shelf1.replace_books(1, 4)
-# shelf1.order_books()
+rder_books()
 
 id = 0
 choice = ""

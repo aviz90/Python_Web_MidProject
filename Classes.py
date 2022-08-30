@@ -116,7 +116,6 @@ class Library:
     #receives a shelf number, and books locations and replace between these 2 Books objects.
     def change_locations_in_same_shelf(self, shelfNumber, bookLocation1, bookLocation2):
         self.shelves[shelfNumber].replace_books(bookLocation1, bookLocation2)
-        # arrBooks[bookLocation1], arrBooks[bookLocation2] == arrBooks[bookLocation2], arrBooks[bookLocation1]
         
     #order all books in each shelf by their num_of_pages
     def order_books(self):
