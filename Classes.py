@@ -1,5 +1,3 @@
-from asyncio.windows_events import NULL
-from csv import reader
 from datetime import date
 from pymongo import MongoClient
 from bson import ObjectId
